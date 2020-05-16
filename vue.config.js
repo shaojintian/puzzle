@@ -1,6 +1,5 @@
-module.exports ={
-    publicPath: 'vue',
-    outputDir: 'output',
-    productionSourceMap: true,
-    
+module.exports = {
+	publicPath: 'vue',
+	outputDir: 'output',
+	productionSourceMap: true,
 }
